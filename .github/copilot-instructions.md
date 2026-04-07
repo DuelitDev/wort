@@ -1,0 +1,7 @@
+- Bun 기반 SvelteKit 프로젝트다.
+- UI는 src/routes/+page.svelte 에서 단일 라우트 MVP로 유지한다.
+- 단어 원천은 data/words.toml 이며 서버에서 한 번 읽어 정규화한다.
+- 실시간 TOML 변경 감시는 고려하지 않는다.
+- 현재 범위는 명사 뜻 추론과 동사 현재형 퀴즈 4개 모드만 포함한다.
+- noun 데이터는 TOML 제약 때문에 key 기반 표제어 또는 word 필드를 사용한다.
+- 현재형 tense key 는 present, prasens, präsens, current 중 하나를 우선 사용한다.

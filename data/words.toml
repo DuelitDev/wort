@@ -1,0 +1,466 @@
+noun."das Bild".means = ["그림", "이미지"]
+noun."das Bild".example = ["Das Bild hängt an der Wand."]
+
+noun."das Gespräch".means = ["대화"]
+noun."das Gespräch".example = ["Das Gespräch ist sehr interessant."]
+
+noun."das Wort".means = ["단어", "말"]
+noun."das Wort".example = ["Dieses Wort ist neu für mich."]
+
+noun."das Foto".means = ["사진"]
+noun."das Foto".example = ["Das Foto liegt auf dem Tisch."]
+
+noun."das Alphabet".means = ["알파벳"]
+noun."das Alphabet".example = ["Wir lernen heute das Alphabet."]
+
+noun."der Kurs".means = ["강좌", "코스"]
+noun."der Kurs".example = ["Der Kurs beginnt am Montag."]
+
+noun."der Sport".means = ["운동", "스포츠"]
+noun."der Sport".example = ["Sport macht mir Spaß."]
+
+noun."der Vorname".means = ["이름"]
+noun."der Vorname".example = ["Mein Vorname ist Mina."]
+
+noun."der Familienname".means = ["성"]
+noun."der Familienname".example = ["Wie ist Ihr Familienname?"]
+
+noun."der Buchstabe".means = ["글자", "알파벳 글자"]
+noun."der Buchstabe".example = ["Dieser Buchstabe ist ein A."]
+
+noun."der Moment".means = ["잠깐", "순간"]
+noun."der Moment".example = ["Einen Moment, bitte."]
+
+noun."der Name".means = ["이름"]
+noun."der Name".example = ["Der Name ist nicht schwer."]
+
+noun."der Herr".means = ["남성", "신사"]
+noun."der Herr".example = ["Der Herr wartet vor der Tür."]
+
+noun."die Frage".means = ["질문"]
+noun."die Frage".example = ["Die Frage ist einfach."]
+
+noun."die Stadt".means = ["도시"]
+noun."die Stadt".example = ["Die Stadt ist groß und lebendig."]
+
+noun."die Straße".means = ["거리", "도로"]
+noun."die Straße".example = ["Die Straße ist heute voll."]
+
+noun."die Lektion".means = ["과", "레슨"]
+noun."die Lektion".example = ["Die Lektion ist noch neu."]
+
+noun."die Antwort".means = ["대답", "정답"]
+noun."die Antwort".example = ["Die Antwort ist richtig."]
+
+noun."die Firma".means = ["회사"]
+noun."die Firma".example = ["Die Firma ist international."]
+
+noun."Deutschland".means = ["독일"]
+noun."Deutschland".example = ["Deutschland liegt in Europa."]
+
+noun."Österreich".means = ["오스트리아"]
+noun."Österreich".example = ["Österreich ist auch ein deutschsprachiges Land."]
+
+noun."die Schweiz".means = ["스위스"]
+noun."die Schweiz".example = ["Die Schweiz ist sehr schön."]
+
+noun."die Adresse".means = ["주소"]
+noun."die Adresse".example = ["Bitte schreiben Sie Ihre Adresse."]
+
+noun."die Visitenkarte".means = ["명함"]
+noun."die Visitenkarte".example = ["Hier ist meine Visitenkarte."]
+
+noun."die Dame".means = ["여성", "숙녀"]
+noun."die Dame".example = ["Die Dame kommt aus Wien."]
+
+noun."die Musik".means = ["음악"]
+noun."die Musik".example = ["Die Musik ist sehr schön."]
+
+noun."die Sprache".means = ["언어"]
+noun."die Sprache".example = ["Deutsch ist eine interessante Sprache."]
+
+noun."die Frau".means = ["여성", "부인"]
+noun."die Frau".example = ["Die Frau spricht mit dem Lehrer."]
+
+noun."die Entschuldigung".means = ["사과", "실례"]
+noun."die Entschuldigung".example = ["Die Entschuldigung kommt zu spät."]
+
+# TODO: 인삿말, 부사, 대명사는 임시로 noun 아래에 저장한다. 이후 dedicated category로 분리한다.
+
+noun."Guten Tag".means = ["안녕하세요"]
+noun."Guten Tag".example = ["Guten Tag, Herr Becker."]
+
+noun."Auf Wiedersehen".means = ["안녕히 가세요", "또 만나요"]
+noun."Auf Wiedersehen".example = ["Auf Wiedersehen und bis morgen."]
+
+noun."Hallo".means = ["안녕"]
+noun."Hallo".example = ["Hallo, Anna."]
+
+noun."Tschüs".means = ["잘 가", "안녕"]
+noun."Tschüs".example = ["Tschüs, bis später."]
+
+noun."Guten Abend".means = ["안녕하세요", "좋은 저녁입니다"]
+noun."Guten Abend".example = ["Guten Abend, Frau Sommer."]
+
+noun."vielen Dank".means = ["대단히 감사합니다"]
+noun."vielen Dank".example = ["Vielen Dank für Ihre Hilfe."]
+
+noun."auf Wiederhören".means = ["안녕히 계세요", "전화 끊을 때 인사"]
+noun."auf Wiederhören".example = ["Auf Wiederhören, Frau König."]
+
+noun."willkommen".means = ["환영합니다"]
+noun."willkommen".example = ["Willkommen im Deutschkurs."]
+
+noun."Guten Morgen".means = ["좋은 아침입니다", "안녕하세요"]
+noun."Guten Morgen".example = ["Guten Morgen, wie geht es Ihnen?"]
+
+noun."danke".means = ["고마워요", "감사합니다"]
+noun."danke".example = ["Danke, das ist sehr nett."]
+
+noun."Gute Nacht".means = ["안녕히 주무세요"]
+noun."Gute Nacht".example = ["Gute Nacht und schlaf gut."]
+
+noun."Wie bitte".means = ["뭐라고요?", "다시 말씀해 주세요"]
+noun."Wie bitte".example = ["Wie bitte, können Sie das wiederholen?"]
+
+noun."Aha".means = ["아하"]
+noun."Aha".example = ["Aha, jetzt verstehe ich."]
+
+noun."noch einmal".means = ["다시 한 번"]
+noun."noch einmal".example = ["Bitte sagen Sie das noch einmal."]
+
+noun."nicht".means = ["아니다", "안"]
+noun."nicht".example = ["Das ist nicht schwer."]
+
+noun."wie".means = ["어떻게", "어떤"]
+noun."wie".example = ["Wie heißen Sie?"]
+
+noun."woher".means = ["어디서부터", "어느 나라에서"]
+noun."woher".example = ["Woher kommen Sie?"]
+
+noun."nur".means = ["단지", "오직"]
+noun."nur".example = ["Ich spreche nur ein bisschen Deutsch."]
+
+noun."ein bisschen".means = ["조금"]
+noun."ein bisschen".example = ["Ich verstehe ein bisschen Deutsch."]
+
+noun."Sie".means = ["당신", "당신들", "존칭 당신"]
+noun."Sie".example = ["Kommen Sie aus Deutschland?"]
+
+noun."Wer".means = ["누구"]
+noun."Wer".example = ["Wer ist das?"]
+
+noun."du".means = ["너"]
+noun."du".example = ["Wie heißt du?"]
+
+noun."Was".means = ["무엇"]
+noun."Was".example = ["Was ist das?"]
+
+noun."ich".means = ["나", "저"]
+noun."ich".example = ["Ich komme aus Korea."]
+
+verb.ansehen.present.ich = "sehe an"
+verb.ansehen.present.du = "siehst an"
+verb.ansehen.present."er/sie/es" = "sieht an"
+verb.ansehen.present.wir = "sehen an"
+verb.ansehen.present.ihr = "seht an"
+verb.ansehen.present."sie/Sie" = "sehen an"
+verb.ansehen.means = ["보다", "살펴보다"]
+verb.ansehen.example = ["Ich sehe das Bild genau an."]
+
+verb.sehen.present.ich = "sehe"
+verb.sehen.present.du = "siehst"
+verb.sehen.present."er/sie/es" = "sieht"
+verb.sehen.present.wir = "sehen"
+verb.sehen.present.ihr = "seht"
+verb.sehen.present."sie/Sie" = "sehen"
+verb.sehen.means = ["보다"]
+verb.sehen.example = ["Wir sehen das Foto zusammen."]
+
+verb."hören".present.ich = "höre"
+verb."hören".present.du = "hörst"
+verb."hören".present."er/sie/es" = "hört"
+verb."hören".present.wir = "hören"
+verb."hören".present.ihr = "hört"
+verb."hören".present."sie/Sie" = "hören"
+verb."hören".means = ["듣다"]
+verb."hören".example = ["Ich höre die Musik gern."]
+
+verb.ankreuzen.present.ich = "kreuze an"
+verb.ankreuzen.present.du = "kreuzt an"
+verb.ankreuzen.present."er/sie/es" = "kreuzt an"
+verb.ankreuzen.present.wir = "kreuzen an"
+verb.ankreuzen.present.ihr = "kreuzt an"
+verb.ankreuzen.present."sie/Sie" = "kreuzen an"
+verb.ankreuzen.means = ["체크하다", "표시하다"]
+verb.ankreuzen.example = ["Bitte kreuzen Sie die richtige Antwort an."]
+
+verb.zuordnen.present.ich = "ordne zu"
+verb.zuordnen.present.du = "ordnest zu"
+verb.zuordnen.present."er/sie/es" = "ordnet zu"
+verb.zuordnen.present.wir = "ordnen zu"
+verb.zuordnen.present.ihr = "ordnet zu"
+verb.zuordnen.present."sie/Sie" = "ordnen zu"
+verb.zuordnen.means = ["연결하다", "분류하다"]
+verb.zuordnen.example = ["Wir ordnen die Bilder den Wörtern zu."]
+
+verb.ordnen.present.ich = "ordne"
+verb.ordnen.present.du = "ordnest"
+verb.ordnen.present."er/sie/es" = "ordnet"
+verb.ordnen.present.wir = "ordnen"
+verb.ordnen.present.ihr = "ordnet"
+verb.ordnen.present."sie/Sie" = "ordnen"
+verb.ordnen.means = ["정리하다", "배열하다"]
+verb.ordnen.example = ["Ich ordne die Wörter alphabetisch."]
+
+verb."ergänzen".present.ich = "ergänze"
+verb."ergänzen".present.du = "ergänzt"
+verb."ergänzen".present."er/sie/es" = "ergänzt"
+verb."ergänzen".present.wir = "ergänzen"
+verb."ergänzen".present.ihr = "ergänzt"
+verb."ergänzen".present."sie/Sie" = "ergänzen"
+verb."ergänzen".means = ["보충하다", "완성하다"]
+verb."ergänzen".example = ["Sie ergänzen den Satz."]
+
+verb.machen.present.ich = "mache"
+verb.machen.present.du = "machst"
+verb.machen.present."er/sie/es" = "macht"
+verb.machen.present.wir = "machen"
+verb.machen.present.ihr = "macht"
+verb.machen.present."sie/Sie" = "machen"
+verb.machen.means = ["하다", "만들다"]
+verb.machen.example = ["Was machen wir jetzt?"]
+
+verb.sprechen.present.ich = "spreche"
+verb.sprechen.present.du = "sprichst"
+verb.sprechen.present."er/sie/es" = "spricht"
+verb.sprechen.present.wir = "sprechen"
+verb.sprechen.present.ihr = "sprecht"
+verb.sprechen.present."sie/Sie" = "sprechen"
+verb.sprechen.means = ["말하다"]
+verb.sprechen.example = ["Sie sprechen langsam und klar."]
+
+verb.lesen.present.ich = "lese"
+verb.lesen.present.du = "liest"
+verb.lesen.present."er/sie/es" = "liest"
+verb.lesen.present.wir = "lesen"
+verb.lesen.present.ihr = "lest"
+verb.lesen.present."sie/Sie" = "lesen"
+verb.lesen.means = ["읽다"]
+verb.lesen.example = ["Ich lese das Gespräch laut vor."]
+
+verb.spielen.present.ich = "spiele"
+verb.spielen.present.du = "spielst"
+verb.spielen.present."er/sie/es" = "spielt"
+verb.spielen.present.wir = "spielen"
+verb.spielen.present.ihr = "spielt"
+verb.spielen.present."sie/Sie" = "spielen"
+verb.spielen.means = ["놀다", "경기하다"]
+verb.spielen.example = ["Die Kinder spielen auf der Straße."]
+
+verb.suchen.present.ich = "suche"
+verb.suchen.present.du = "suchst"
+verb.suchen.present."er/sie/es" = "sucht"
+verb.suchen.present.wir = "suchen"
+verb.suchen.present.ihr = "sucht"
+verb.suchen.present."sie/Sie" = "suchen"
+verb.suchen.means = ["찾다"]
+verb.suchen.example = ["Wir suchen die richtige Adresse."]
+
+verb.zeigen.present.ich = "zeige"
+verb.zeigen.present.du = "zeigst"
+verb.zeigen.present."er/sie/es" = "zeigt"
+verb.zeigen.present.wir = "zeigen"
+verb.zeigen.present.ihr = "zeigt"
+verb.zeigen.present."sie/Sie" = "zeigen"
+verb.zeigen.means = ["보여주다"]
+verb.zeigen.example = ["Ich zeige Ihnen das Foto."]
+
+verb.fragen.present.ich = "frage"
+verb.fragen.present.du = "fragst"
+verb.fragen.present."er/sie/es" = "fragt"
+verb.fragen.present.wir = "fragen"
+verb.fragen.present.ihr = "fragt"
+verb.fragen.present."sie/Sie" = "fragen"
+verb.fragen.means = ["질문하다", "묻다"]
+verb.fragen.example = ["Der Lehrer fragt nach dem Namen."]
+
+verb.markieren.present.ich = "markiere"
+verb.markieren.present.du = "markierst"
+verb.markieren.present."er/sie/es" = "markiert"
+verb.markieren.present.wir = "markieren"
+verb.markieren.present.ihr = "markiert"
+verb.markieren.present."sie/Sie" = "markieren"
+verb.markieren.means = ["표시하다", "마킹하다"]
+verb.markieren.example = ["Markieren Sie bitte das richtige Wort."]
+
+verb.raten.present.ich = "rate"
+verb.raten.present.du = "rätst"
+verb.raten.present."er/sie/es" = "rät"
+verb.raten.present.wir = "raten"
+verb.raten.present.ihr = "ratet"
+verb.raten.present."sie/Sie" = "raten"
+verb.raten.means = ["추측하다", "맞히다"]
+verb.raten.example = ["Wir raten die Antwort."]
+
+verb.nachsprechen.present.ich = "spreche nach"
+verb.nachsprechen.present.du = "sprichst nach"
+verb.nachsprechen.present."er/sie/es" = "spricht nach"
+verb.nachsprechen.present.wir = "sprechen nach"
+verb.nachsprechen.present.ihr = "sprecht nach"
+verb.nachsprechen.present."sie/Sie" = "sprechen nach"
+verb.nachsprechen.means = ["따라 말하다"]
+verb.nachsprechen.example = ["Bitte sprechen Sie den Satz nach."]
+
+verb.meinen.present.ich = "meine"
+verb.meinen.present.du = "meinst"
+verb.meinen.present."er/sie/es" = "meint"
+verb.meinen.present.wir = "meinen"
+verb.meinen.present.ihr = "meint"
+verb.meinen.present."sie/Sie" = "meinen"
+verb.meinen.means = ["생각하다", "의미하다"]
+verb.meinen.example = ["Was meinen Sie genau?"]
+
+verb.sagen.present.ich = "sage"
+verb.sagen.present.du = "sagst"
+verb.sagen.present."er/sie/es" = "sagt"
+verb.sagen.present.wir = "sagen"
+verb.sagen.present.ihr = "sagt"
+verb.sagen.present."sie/Sie" = "sagen"
+verb.sagen.means = ["말하다"]
+verb.sagen.example = ["Er sagt seinen Namen."]
+
+verb.notieren.present.ich = "notiere"
+verb.notieren.present.du = "notierst"
+verb.notieren.present."er/sie/es" = "notiert"
+verb.notieren.present.wir = "notieren"
+verb.notieren.present.ihr = "notiert"
+verb.notieren.present."sie/Sie" = "notieren"
+verb.notieren.means = ["적어 두다", "기록하다"]
+verb.notieren.example = ["Ich notiere die Adresse."]
+
+verb.vergleichen.present.ich = "vergleiche"
+verb.vergleichen.present.du = "vergleichst"
+verb.vergleichen.present."er/sie/es" = "vergleicht"
+verb.vergleichen.present.wir = "vergleichen"
+verb.vergleichen.present.ihr = "vergleicht"
+verb.vergleichen.present."sie/Sie" = "vergleichen"
+verb.vergleichen.means = ["비교하다"]
+verb.vergleichen.example = ["Wir vergleichen die Antworten."]
+
+verb.arbeiten.present.ich = "arbeite"
+verb.arbeiten.present.du = "arbeitest"
+verb.arbeiten.present."er/sie/es" = "arbeitet"
+verb.arbeiten.present.wir = "arbeiten"
+verb.arbeiten.present.ihr = "arbeitet"
+verb.arbeiten.present."sie/Sie" = "arbeiten"
+verb.arbeiten.means = ["일하다"]
+verb.arbeiten.example = ["Sie arbeiten bei einer Firma."]
+
+verb.schreiben.present.ich = "schreibe"
+verb.schreiben.present.du = "schreibst"
+verb.schreiben.present."er/sie/es" = "schreibt"
+verb.schreiben.present.wir = "schreiben"
+verb.schreiben.present.ihr = "schreibt"
+verb.schreiben.present."sie/Sie" = "schreiben"
+verb.schreiben.means = ["쓰다"]
+verb.schreiben.example = ["Ich schreibe meinen Vornamen."]
+
+verb.variieren.present.ich = "variiere"
+verb.variieren.present.du = "variierst"
+verb.variieren.present."er/sie/es" = "variiert"
+verb.variieren.present.wir = "variieren"
+verb.variieren.present.ihr = "variiert"
+verb.variieren.present."sie/Sie" = "variieren"
+verb.variieren.means = ["변형하다", "다양하게 바꾸다"]
+verb.variieren.example = ["Die Gruppen variieren die Sätze."]
+
+verb."erzählen".present.ich = "erzähle"
+verb."erzählen".present.du = "erzählst"
+verb."erzählen".present."er/sie/es" = "erzählt"
+verb."erzählen".present.wir = "erzählen"
+verb."erzählen".present.ihr = "erzählt"
+verb."erzählen".present."sie/Sie" = "erzählen"
+verb."erzählen".means = ["이야기하다", "말해주다"]
+verb."erzählen".example = ["Sie erzählt von ihrer Stadt."]
+
+verb.zeichnen.present.ich = "zeichne"
+verb.zeichnen.present.du = "zeichnest"
+verb.zeichnen.present."er/sie/es" = "zeichnet"
+verb.zeichnen.present.wir = "zeichnen"
+verb.zeichnen.present.ihr = "zeichnet"
+verb.zeichnen.present."sie/Sie" = "zeichnen"
+verb.zeichnen.means = ["그리다"]
+verb.zeichnen.example = ["Die Kinder zeichnen ein Bild."]
+
+verb.verbinden.present.ich = "verbinde"
+verb.verbinden.present.du = "verbindest"
+verb.verbinden.present."er/sie/es" = "verbindet"
+verb.verbinden.present.wir = "verbinden"
+verb.verbinden.present.ihr = "verbindet"
+verb.verbinden.present."sie/Sie" = "verbinden"
+verb.verbinden.means = ["연결하다"]
+verb.verbinden.example = ["Verbinden Sie das Bild mit dem Wort."]
+
+verb.antworten.present.ich = "antworte"
+verb.antworten.present.du = "antwortest"
+verb.antworten.present."er/sie/es" = "antwortet"
+verb.antworten.present.wir = "antworten"
+verb.antworten.present.ihr = "antwortet"
+verb.antworten.present."sie/Sie" = "antworten"
+verb.antworten.means = ["대답하다"]
+verb.antworten.example = ["Ich antworte auf die Frage."]
+
+verb.wissen.present.ich = "weiß"
+verb.wissen.present.du = "weißt"
+verb.wissen.present."er/sie/es" = "weiß"
+verb.wissen.present.wir = "wissen"
+verb.wissen.present.ihr = "wisst"
+verb.wissen.present."sie/Sie" = "wissen"
+verb.wissen.means = ["알다"]
+verb.wissen.example = ["Weißt du die Antwort?"]
+
+verb.kommen.present.ich = "komme"
+verb.kommen.present.du = "kommst"
+verb.kommen.present."er/sie/es" = "kommt"
+verb.kommen.present.wir = "kommen"
+verb.kommen.present.ihr = "kommt"
+verb.kommen.present."sie/Sie" = "kommen"
+verb.kommen.means = ["오다"]
+verb.kommen.example = ["Sie kommen aus Deutschland."]
+
+verb.buchstabieren.present.ich = "buchstabiere"
+verb.buchstabieren.present.du = "buchstabierst"
+verb.buchstabieren.present."er/sie/es" = "buchstabiert"
+verb.buchstabieren.present.wir = "buchstabieren"
+verb.buchstabieren.present.ihr = "buchstabiert"
+verb.buchstabieren.present."sie/Sie" = "buchstabieren"
+verb.buchstabieren.means = ["철자를 말하다"]
+verb.buchstabieren.example = ["Bitte buchstabieren Sie Ihren Namen."]
+
+verb."da sein".present.ich = "bin da"
+verb."da sein".present.du = "bist da"
+verb."da sein".present."er/sie/es" = "ist da"
+verb."da sein".present.wir = "sind da"
+verb."da sein".present.ihr = "seid da"
+verb."da sein".present."sie/Sie" = "sind da"
+verb."da sein".means = ["있다", "도착해 있다"]
+verb."da sein".example = ["Ich bin schon da."]
+
+verb."heißen".present.ich = "heiße"
+verb."heißen".present.du = "heißt"
+verb."heißen".present."er/sie/es" = "heißt"
+verb."heißen".present.wir = "heißen"
+verb."heißen".present.ihr = "heißt"
+verb."heißen".present."sie/Sie" = "heißen"
+verb."heißen".means = ["이름이 ~이다"]
+verb."heißen".example = ["Wie heißen Sie?"]
+
+verb.sein.present.ich = "bin"
+verb.sein.present.du = "bist"
+verb.sein.present."er/sie/es" = "ist"
+verb.sein.present.wir = "sind"
+verb.sein.present.ihr = "seid"
+verb.sein.present."sie/Sie" = "sind"
+verb.sein.means = ["이다", "있다"]
+verb.sein.example = ["Das ist Frau König."]
